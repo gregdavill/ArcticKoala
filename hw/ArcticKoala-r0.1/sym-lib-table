@@ -16,6 +16,5 @@
   (lib (name pkl_cypress)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_cypress.lib)(options "")(descr ""))
   (lib (name pkl_conn)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_conn.lib)(options "")(descr ""))
   (lib (name pkl_analog_devices)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_analog_devices.lib)(options "")(descr ""))
-  (lib (name file)(type Legacy)(uri /home/greg/projects/ArcticKoala/doc/file.lib)(options "")(descr ""))
-  (lib (name gkl_lattice)(type Legacy)(uri /home/greg/projects/ArcticKoala/lib/gkl/gkl_lattice.lib)(options "")(descr ""))
+  (lib (name gkl_lattice)(type Legacy)(uri ${KIPRJMOD}/../../lib/gkl/gkl_lattice.lib)(options "")(descr ""))
 )
