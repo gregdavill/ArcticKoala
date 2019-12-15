@@ -17,4 +17,6 @@
   (lib (name pkl_conn)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_conn.lib)(options "")(descr ""))
   (lib (name pkl_analog_devices)(type Legacy)(uri ${KIPRJMOD}/../../lib/pkl/pkl_analog_devices.lib)(options "")(descr ""))
   (lib (name gkl_lattice)(type Legacy)(uri ${KIPRJMOD}/../../lib/gkl/gkl_lattice.lib)(options "")(descr ""))
+  (lib (name gkl_power)(type Legacy)(uri /home/greg/projects/ArcticKoala/lib/gkl/gkl_power.lib)(options "")(descr ""))
+  (lib (name gkl_pmic)(type Legacy)(uri /home/greg/projects/ArcticKoala/lib/gkl/gkl_pmic.lib)(options "")(descr ""))
 )
