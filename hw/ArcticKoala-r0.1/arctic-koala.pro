@@ -1,4 +1,4 @@
-update=Sun 15 Dec 2019 15:51:20 ACDT
+update=Mon 16 Dec 2019 07:54:07 ACDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -246,7 +246,7 @@ PageLayoutDescrFile=
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
